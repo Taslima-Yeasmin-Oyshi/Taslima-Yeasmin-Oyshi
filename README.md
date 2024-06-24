@@ -1,9 +1,10 @@
 ### Hi there 👋 Welcome to my GitHub!
 
-My name is Taslima Yeasmin Oyshi. I'm a learner pursuing CSE,i know Java, C, C++, and basic Python, and I'm currently learning HTML and CSS. I'm passionate about working on different languages and technologies in the future.
+My name is Taslima Yeasmin Oyshi. I'm a learner pursuing CSE. I know Java, C, C++, and basic Python, and I'm currently learning HTML and CSS. I'm passionate about working on different languages and technologies in the future.
 
-![Code Like a Girl]((https://github.com/Taslima-Yeasmin-Oyshi/Taslima-Yeasmin-Oyshi/Screenshot%202024-06-24%20161605.png))
+<img src="https://github.com/Taslima-Yeasmin-Oyshi/Taslima-Yeasmin-Oyshi/blob/main/Screenshot%202024-06-24%20161605.png" alt="Code Like a Girl" width="500"/>
 
+<small>
 🔭 **I'm currently working on:**
 - Data structures and algorithms
 
@@ -24,3 +25,4 @@ My name is Taslima Yeasmin Oyshi. I'm a learner pursuing CSE,i know Java, C, C++
 
 😊 **Pronouns:**
 - She/Her
+</small>
